@@ -1,0 +1,5 @@
+datalad-osf==0.2.0
+nilearn==0.7.0
+pip-chill==1.0.0
+pybids==0.12.4
+statsmodels==0.12.1
